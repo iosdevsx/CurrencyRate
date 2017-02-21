@@ -8,3 +8,4 @@
 
 "close" = "Закрыть";
 "rate-fetch-failed" = "Не удалось получить курс";
+"error-title" = "Ошибка";

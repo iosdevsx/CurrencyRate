@@ -8,3 +8,4 @@
 
 "close" = "Close";
 "rate-fetch-failed" = "Can't fetch rate";
+"error-title" = "Error";

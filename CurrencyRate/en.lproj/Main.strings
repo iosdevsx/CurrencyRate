@@ -3,7 +3,7 @@
 "3zU-zu-EAT.text" = "RUB";
 
 /* Class = "UINavigationItem"; title = "Курс валют"; ObjectID = "Au7-x1-kI4"; */
-"Au7-x1-kI4.title" = "Курс валют";
+"Au7-x1-kI4.title" = "Rates";
 
 /* Class = "UILabel"; text = "USD"; ObjectID = "gcw-5J-IDL"; */
 "gcw-5J-IDL.text" = "USD";
