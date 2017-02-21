@@ -1,0 +1,10 @@
+/* 
+  Localization.strings
+  CurrencyRate
+
+  Created by Юрий Логинов on 21.02.17.
+  Copyright © 2017 Yury Loginov. All rights reserved.
+*/
+
+"close" = "Close";
+"rate-fetch-failed" = "Can't fetch rate";
