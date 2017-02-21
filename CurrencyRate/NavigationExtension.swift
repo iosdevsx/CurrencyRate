@@ -11,9 +11,10 @@ import UIKit
 
 extension UINavigationController {
     public func setBaseStyle() {
-        self.backgroundColor = UIColor(red: 58.0 / 255.0, green: 59.0 / 255.0, blue: 65.0 / 255.0, alpha: 1)
-        self.setBackgroundImage(UIImage(), for: UIBarMetrics.default)
-        self.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.white]
-        self.shadowImage = UIImage.init(named: "navigationBarDivider")
+        self.navigationBar.backgroundColor = UIColor.charcoal()
+        self.navigationBar.setBackgroundImage(UIImage(), for: .default)
+        self.navigationBar.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.white]
+        self.navigationBar.shadowImage = UIImage.init(named: "navigationBarDivider")
+        self.navigationBar.barStyle = .black
     }
 }

@@ -7,3 +7,11 @@
 //
 
 import Foundation
+import UIKit
+
+class CurrencyCell: UITableViewCell {
+    
+    @IBOutlet weak var amountLabel: UILabel!
+    @IBOutlet weak var currencyLabel: UILabel!
+    
+}

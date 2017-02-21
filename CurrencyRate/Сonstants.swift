@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+class Constants {
+    static let latestCurrency: String = "https://api.fixer.io/latest?base="
+}

@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+class CurrencyModel {
+    var currency: String?
+    var rate: NSNumber?
+    
+    init(currency: String, rate: NSNumber) {
+        self.currency = currency
+        self.rate = rate
+    }
+}

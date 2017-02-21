@@ -7,3 +7,10 @@
 //
 
 import Foundation
+import UIKit
+
+extension UIColor {
+    static func charcoal() -> UIColor {
+        return UIColor(red: 58.0 / 255.0, green: 59.0 / 255.0, blue: 65.0 / 255.0, alpha: 1)
+    }
+}
