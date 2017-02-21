@@ -6,5 +6,6 @@
   Copyright © 2017 Yury Loginov. All rights reserved.
 */
 
-"close-button" = "Close";
+"close" = "Close";
 "rate-fetch-failed" = "Can't fetch rate";
+"error-title" = "Error";
